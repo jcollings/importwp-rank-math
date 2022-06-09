@@ -5,7 +5,7 @@
  * Plugin URI: https://www.importwp.com
  * Description: Allow Import WP to import Rank Math SEO fields.
  * Author: James Collings <james@jclabs.co.uk>
- * Version: 0.0.2 
+ * Version: 0.0.3 
  * Author URI: https://www.importwp.com
  * Network: True
  */
